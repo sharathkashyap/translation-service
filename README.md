@@ -16,7 +16,7 @@ uvicorn src.main:app --reload
 ---
 
 ## 📋 **Project Structure**
-```
+
 translation-service/
 ├── src/
 │   ├── core/                    # Configuration & exceptions
@@ -44,7 +44,7 @@ translation-service/
 ├── logging.ini                 # Logging setup
 ├── README.md                   # Full documentation
 └── SETUP.md                    # Quick setup guide
-
+```
 </details>
 
 
