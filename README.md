@@ -61,6 +61,9 @@ translation-service/
   ✅ Production-ready service
   ✅ API at http://localhost:8000/docs
 
+<details>
+<summary>Google Cloud Setup</summary>
+
 ═══════════════════════════════════════════════════════════════════════════════
 
 📋 PART 1: GOOGLE CLOUD SETUP (15 minutes)
@@ -143,6 +146,11 @@ Option B (From JSON file):
 
 📝 Save your Project ID somewhere!
 
+</details>
+
+
+<details>
+<summary>Jump to Local Setup directly if cloud setup is complete</summary>
 ═══════════════════════════════════════════════════════════════════════════════
 
 📋 PART 2: LOCAL SETUP (10 minutes)
@@ -257,6 +265,9 @@ Your translation-service folder should now have:
   ├── requirements/
   └── README.md
 
+</details>
+<details>
+<summary>Run the service once setup is done</summary>
 ═══════════════════════════════════════════════════════════════════════════════
 
 🚀 PART 3: RUN THE SERVICE (5 minutes)
@@ -389,5 +400,10 @@ Common issues:
 Your translation service supports 100+ languages via Google Cloud Translate!
 
 API running at: http://localhost:8000/docs
+<<<<<<< HEAD
 
 </details>
+=======
+</details>
+</details>
+>>>>>>> 02b27d0 (Initial Set of Changes to README)
