@@ -400,10 +400,7 @@ Common issues:
 Your translation service supports 100+ languages via Google Cloud Translate!
 
 API running at: http://localhost:8000/docs
-<<<<<<< HEAD
 
 </details>
-=======
 </details>
-</details>
->>>>>>> 02b27d0 (Initial Set of Changes to README)
+
